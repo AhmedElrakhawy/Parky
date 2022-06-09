@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ParkyAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ParkyAPI.Controllers.NationalParksController.GetNationalParks">
+            <summary>
+            Get All National Parks
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ParkyAPI.Controllers.NationalParksController.GetNationalPark(System.Int32)">
+            <summary>
+            Get Indvidual National Park
+            </summary>
+            <param name="Id">The Id Of The National Park</param>
+            <returns></returns>
+        </member>
+        <member name="M:ParkyAPI.Controllers.NationalParksController.CreateNationalPark(ParkyAPI.Models.DTOS.NationalParkDto)">
+            <summary>
+            Creating a new National Park
+            </summary>
+            <param name="nationalParkDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ParkyAPI.Controllers.NationalParksv2Controller.GetNationalParks">
+            <summary>
+            Get All National Parks
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ParkyAPI.Controllers.TrailsController.GetAllTrails">
+            <summary>
+            Get All Trails
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ParkyAPI.Controllers.TrailsController.GetTrail(System.Int32)">
+            <summary>
+            Get Idividual Trail
+            </summary>
+            <param name="Id">Trail Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:ParkyAPI.Controllers.TrailsController.GetTrailsInNationPark(System.Int32)">
+            <summary>
+            Getting the Trails of a National Park
+            </summary>
+            <param name="NationalParkId">The Id of The National Park</param>
+            <returns></returns>
+        </member>
+        <member name="M:ParkyAPI.Controllers.TrailsController.CreateTrail(ParkyAPI.Models.DTOS.TrailCreateDto)">
+            <summary>
+            Creating a New Trail
+            </summary>
+            <param name="trailDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

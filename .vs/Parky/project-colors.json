@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae9a4f05-e4bf-49cf-9aac-44d888c0db8c": {
+      "ProjectGuid": "ae9a4f05-e4bf-49cf-9aac-44d888c0db8c",
+      "DisplayName": "ParkyAPI",
+      "ColorIndex": 0
+    },
+    "33efcd5d-50a4-41ff-94bb-5b5d2218ff2b": {
+      "ProjectGuid": "33efcd5d-50a4-41ff-94bb-5b5d2218ff2b",
+      "DisplayName": "ParkyAPI",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3094d773-606b-4ee0-995f-4e74404abc7f": {
+      "ProjectGuid": "3094d773-606b-4ee0-995f-4e74404abc7f",
+      "DisplayName": "ParkyWeb",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
